@@ -7,6 +7,10 @@ name = "python-example-app"
 version = "0.1.0"
 description = "Example application"
 readme = "README.md"
+dependencies = [
+    "matplotlib>=3.10.6",
+    "numpy>=2.3.3",
+]
 
 [tool.uv]
 dev-dependencies = [
