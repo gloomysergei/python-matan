@@ -9,6 +9,7 @@ description = "Example application"
 readme = "README.md"
 dependencies = [
     "matplotlib>=3.10.7",
+    "notebook>=7.5.2",
     "numpy>=2.3.4",
 ]
 
